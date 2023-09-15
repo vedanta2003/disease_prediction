@@ -1,0 +1,42 @@
+,Disease,Severity
+0,Drug Reaction,2.0
+1,Malaria,3.0
+2,Allergy,2.0
+3,Hypothyroidism,2.0
+4,Psoriasis,3.0
+5,GERD,2.0
+6,Chronic cholestasis,4.0
+7,hepatitis A,3.0
+8,Osteoarthristis,4.0
+9,(vertigo) Paroymsal  Positional Vertigo,
+10,Hypoglycemia,3.0
+11,Acne,1.0
+12,Diabetes,4.0
+13,Impetigo,2.0
+14,Hypertension,3.0
+15,Peptic ulcer diseae,3.0
+16,Dimorphic hemorrhoids(piles),2.0
+17,Common Cold,1.0
+18,Chicken pox,2.0
+19,Cervical spondylosis,4.0
+20,Hyperthyroidism,3.0
+21,Urinary tract infection,2.0
+22,Varicose veins,2.0
+23,AIDS,5.0
+24,Paralysis (brain hemorrhage),4.0
+25,Typhoid,3.0
+26,Hepatitis B,4.0
+27,Fungal infection,2.0
+28,Hepatitis C,4.0
+29,Migraine,3.0
+30,Bronchial Asthma,3.0
+31,Alcoholic hepatitis,4.0
+32,Jaundice,3.0
+33,Hepatitis E,3.0
+34,Dengue,3.0
+35,Hepatitis D,4.0
+36,Heart attack,5.0
+37,Pneumonia,4.0
+38,Arthritis,4.0
+39,Gastroenteritis,3.0
+40,Tuberculosis,4.0
